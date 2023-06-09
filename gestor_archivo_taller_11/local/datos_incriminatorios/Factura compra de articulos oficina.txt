@@ -1,0 +1,20 @@
+ FRAUD OFFICE SUPPLIES
+        Dirección Falsa, Santiago, Chile
+       Teléfono: +56 9 1234 5678 | RUT: 12.345.678-9
+Fecha: 8 de junio de 2023
+N° de Factura: 001237
+
+Cliente: Empresa Ficticia S.A.
+Dirección: Calle Falsa #123, Santiago, Chile
+RUT: 12.345.678-0
+
+Descripción de los Productos/Servicios Cantidad Precio Unitario (CLP) Total (CLP)
+Lápices de lujo con tinta invisible (unidad) 100 5.000 500.000
+Grapas de oro de 24 quilates (caja) 10 20.000 200.000
+Papel membreteado personalizado (resma) 5 50.000 250.000
+Sello falsificado con firma de notario (unidad) 2 100.000 200.000
+Tinta indeleble para documentos confidenciales (botella) 3 30.000 90.000
+Subtotal: 1.240.000
+Impuesto al Valor Agregado (19%): 235.600
+Total: 1.475.600
+Forma de Pago: Efectivo
