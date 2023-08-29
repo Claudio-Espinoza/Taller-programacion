@@ -28,7 +28,7 @@ def comparar_python_files(ruta_gpt, ruta_alumno):
     return mostrar_comparacion(archivo_gpt, archivo_alumno)
 
 
-def seleccionar_archivos_para_revision(archivo_original, archivo_gpt):
-    similarity_percentage = comparar_python_files(archivo_original, archivo_gpt)
+def seleccionar_archivos_para_revision(archivo_gpt, archivo_original, indice_gpt, indice_estudiante):
+    similarity_percentage = comparar_python_files(archivo_gpt, archivo_original)
 
-    print(f"Porcentaje de similitud: {similarity_percentage:.2f}%")
+    print(f"Coincidencia entre:{indice_gpt} - {indice_estudiante}:\t Similitud(%): {similarity_percentage:.2f}%")

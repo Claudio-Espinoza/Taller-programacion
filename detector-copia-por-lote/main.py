@@ -14,10 +14,8 @@ def comparar_carpetas():
 
         for indice_gpt in archivos_gpt:
             path_gpt = str(RUTA_RESOURCE_GPT) + "/" + str(indice_gpt)
-            detector(path_gpt, path)
+            detector(path_gpt, path, indice_gpt, indice_alumno)
     print()
-
-
 
 
 def mostrar_archivos_incriminatorios(ruta, tipo_archivo):
@@ -29,6 +27,8 @@ def mostrar_archivos_incriminatorios(ruta, tipo_archivo):
 
 
 if __name__ == '__main__':
+    # Si quieren un ingreso por consola me dicen y listo
+
     print()
     mostrar_archivos_incriminatorios(RUTA_RESOURCE_GPT, "GPT")
     mostrar_archivos_incriminatorios(RUTA_RESOURCE_ALUMNO, "ALUMNO")
